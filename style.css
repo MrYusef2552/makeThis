@@ -1,0 +1,33 @@
+h1 {
+  font-family: "Alfa Slab One", serif;
+  font-weight: 500;
+  font-style: normal;   
+  color:rgb(0, 0, 0)
+  
+}
+
+h2 {
+  color:rgb(43, 51, 106)
+  
+}
+
+h3 {
+  color:rgb(88, 98, 162)
+  
+}
+
+p {
+  .news-cycle-regular 
+  font-family: "News Cycle", sans-serif;
+  font-weight: 250;
+  font-style: normal;
+
+}
+
+p1 {
+  .news-cycle-italics 
+  font-family: "News Cycle", sans-serif;
+  font-weight: 250;
+  font-style: normal;
+
+}
